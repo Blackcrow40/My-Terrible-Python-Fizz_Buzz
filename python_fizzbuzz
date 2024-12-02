@@ -4,6 +4,7 @@ def main():
         if number % 3 == 0:
             if number % 5 == 0:
                 print("Fizzbuzz")
+
             else:    
                 print ("Fizz")
         elif number % 5 == 0:
